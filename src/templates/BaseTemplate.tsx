@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 
 import { AppConfig } from '@/utils/AppConfig';
@@ -18,9 +19,11 @@ const BaseTemplate = (props: {
           <div className="flex items-center">
             {/* <img src="/path/to/logo.png" alt="Logo" className="mr-2 size-8" /> */}
             {/* Temporary disable because of the missing image */}
-            <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
-              {AppConfig.name}
-            </h1>
+            <Link href="/dashboard">
+              <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
+                {AppConfig.name}
+              </h1>
+            </Link>
           </div>
 
           {/* Navigation links */}
