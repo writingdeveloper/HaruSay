@@ -1,3 +1,10 @@
+# 1.0.0 (2024-05-09)
+
+
+### Features
+
+* add url in title text ([cfb6260](https://github.com/writingdeveloper/HaruSay/commit/cfb62600b4f591ec224e3cdf71e8e9ed0d30936b))
+
 # [3.46.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.45.0...v3.46.0) (2024-04-13)
 
 
