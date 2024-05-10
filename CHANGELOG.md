@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/writingdeveloper/HaruSay/compare/v1.0.0...v1.1.0) (2024-05-10)
+
+
+### Features
+
+* add react-quill editor in dashboard ([6212f81](https://github.com/writingdeveloper/HaruSay/commit/6212f819faec2e2e51cfe614601c4302103e7b0e))
+
 # 1.0.0 (2024-05-09)
 
 
